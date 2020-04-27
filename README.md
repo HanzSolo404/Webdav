@@ -13,7 +13,7 @@ $ pkg install figlet
 
 $ pkg install curl
 
-$ git clone https://github.com/HanzSolo404/Webdav/blob/master/webdav.sh
+$ git clone https://github.com/HanzSolo404/Webdav/
 
 $ ls
 
