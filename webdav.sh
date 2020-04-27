@@ -1,6 +1,6 @@
 clear
 echo  "==========================================================
-cowsay -f eyes 'WEBDAV
+cowsay -f eyes ' :WEBDAV
 echo  "# CopyBy  : Hanz_Solo
 echo  "# TEAM    : No Team
 echo  "# CONTACT : HanzSolo404@GMAIL.COM' | lolcat
