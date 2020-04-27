@@ -22,8 +22,19 @@ $ cd webdav
 $ sh webdav.sh
 
 #Contactme
+
+facebook
 https://www.facebook.com/farhan.effendi.90
 HanzSolo404@gmail.com
 
-#Website / Forum
+Website / Forum
 https://tnghost.blogspot.com/?m=1
+
+instagram
+https://www.instagram.com/hanz_solo_404/
+
+email
+hanzsolo404@gmail.com
+
+github
+https://github.com/HanzSolo404
